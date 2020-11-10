@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-wrap {
+  width: 488px;
+  height: 250px;
+  background-color: #eee;
+}
+
+.preview-image img, .compress-image img {
+  height: 100%;
+}

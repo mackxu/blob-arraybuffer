@@ -1,0 +1,14 @@
+
+.view {
+  height: 200px;
+}
+
+img {
+  height: 100%;
+}
+
+.block {
+  border: 1px solid #ccc;
+  margin: 20px 0;
+  padding: 10px;
+}
